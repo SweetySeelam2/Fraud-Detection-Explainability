@@ -41,8 +41,7 @@ Organizations are often left in the dark about **why** a transaction is flagged 
 ## 📈 Project Assets
 
 - 🔗 **Streamlit App**: [https://frauddetection-analytics.streamlit.app/](https://frauddetection-analytics.streamlit.app/)
-- 📁 **GitHub Repo**: [https://github.com/SweetySeelam2/Fraud-Detection](https://github.com/SweetySeelam2/Fraud-Detection)
-- 📊 **Power BI File**: `CreditCardDetectionExplainability.pbix`
+- 📁 **GitHub Repo**: [https://github.com/SweetySeelam2/Fraud-Detection-Explainability](https://github.com/SweetySeelam2/Fraud-Detection-Explainability)
 - 📄 **PDF Export**: `CreditCardDetectionExplainability.pdf`
 
 ---
