@@ -166,11 +166,11 @@ Dashboards were constructed with **multiple UX levels**:
 
 ---
 
-## © Copyright
+## 🔒 Proprietary & All Rights Reserved
 
-**© 2025 Sweety Seelam. All Rights Reserved.**  
-All content, models, dashboards, code, and visuals are the intellectual property of Sweety Seelam.  
-No reuse, redistribution, or commercial adaptation is permitted without explicit written consent.
+© 2025 Sweety Seelam. This work is proprietary and protected by copyright. All content, models, code, and visuals are © 2025 Sweety Seelam. No part of this project, app, code, or analysis may be copied, reproduced, distributed, or used for any purpose—commercial or otherwise—without explicit written permission from the author.
+
+For licensing, commercial use, or collaboration inquiries, please contact: LinkedIn | Email: sweetyseelam2@gmail.com
 
 ---
 
@@ -183,7 +183,7 @@ No reuse, redistribution, or commercial adaptation is permitted without explicit
 
 ---
 
-## 🧾 APA References
+## 🧾 References
 
 - Statista. (2025). *Global fraud losses by payment method*. https://www.statista.com
 - Kaggle. (n.d.). *Credit Card Fraud Detection Dataset*. https://www.kaggle.com/mlg-ulb/creditcardfraud
