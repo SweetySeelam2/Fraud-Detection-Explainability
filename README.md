@@ -1,6 +1,6 @@
 # 💳 Fraud Detection & Explainability Dashboard (Power BI)
 
-### 🔍 Leveraging SHAP, LIME, and Advanced Analytics to Combat Transactional Fraud in 2025
+**🔍 Leveraging SHAP, LIME, and Advanced Analytics to Combat Transactional Fraud**
 
 ---
 
